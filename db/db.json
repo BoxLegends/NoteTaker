@@ -1,7 +1,17 @@
 [
     {
-        "title":"Test",
-        "text":"Test",
+        "title": "Test",
+        "text": "Test",
         "id": 1
+    },
+    {
+        "title": "new title",
+        "text": "my note",
+        "id": "be53e749-3ee7-4240-be13-cc31076037f7"
+    },
+    {
+        "title": "I want to go to the gym",
+        "text": "I wanna go now",
+        "id": "98a3ff67-6f0d-43d3-b786-c7cb0ccb58cb"
     }
 ]
